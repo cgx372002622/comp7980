@@ -1,6 +1,6 @@
 # COMP7980 Group O Project Readme
 
-github url:https://github.com/cgx372002622/comp7980_project
+github url:https://github.com/cgx372002622/comp7980
 
 First clone the project, the project has front-end and back-end, the front-end is comp7980-web, the back-end is comp7980-express.
 
